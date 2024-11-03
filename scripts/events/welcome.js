@@ -26,7 +26,7 @@ module.exports = {
 			session2: "noon",
 			session3: "afternoon",
 			session4: "evening",
-			welcomeMessage: "Merci de m'avoir inventé dans Vôtre groupe pour mes cmd tape: %1help",
+			welcomeMessage: "Merci de m'avoir inviter dans Vôtre royaume .pour mes cmd tape: %1help",
 			multiple1: "you",
 			multiple2: "you guys",
 			defaultWelcomeMessage: `Salut {userName}.\Bienvenue {multiple} dans le groupe : {boxName}\npasse une excellente journée 😊`
